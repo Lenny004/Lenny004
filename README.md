@@ -67,19 +67,20 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Github Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lenny004&theme=onedark&no-frame=true&margin-w=15" alt="Trofeos" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lenny004&show_icons=true&theme=react&v=2" alt="Mis Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenny004&theme=react&langs_count=8&v=2" alt="Mis Lenguajes" />
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenny004&show_icons=true&locale=es&theme=onedark&hide_border=true&v=2" alt="Estadísticas de Lenny" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenny004&show_icons=true&locale=es&layout=compact&theme=onedark&hide_border=true&v=2" alt="Lenguajes Top" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenny004&show_icons=true&locale=es&theme=onedark&hide_border=true" alt="Estadísticas de Lenny" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenny004&show_icons=true&locale=es&layout=compact&theme=onedark&hide_border=true" alt="Lenguajes Top" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenny004&theme=onedark&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=lenny004&theme=onedark&hide_border=true" alt="Racha de GitHub" />
 </p>
