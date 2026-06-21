@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando en **Ptr Sales Solutions Sl** y como Jefe del Departamento de Técnologia en **Grupo FERRESAL y JM Construcciones, S.A. DE C.V.**
+- 🔭 Actualmente trabajando en **Ptr Sales Solutions Sl**
 - 🌱 Aprendiendo y profundizando en **Laravel, Next.JS y Node.js**
 - 💼 Especializado en: **Sistemas ERP, POS, CRMs, facturación y control de inventarios.**
 - 👨‍💻 Todos mis proyectos están disponibles en [lennyx.com](https://lennyx.com/) **(Exceptuando los más delicados o_o)**
